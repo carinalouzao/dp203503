@@ -1,0 +1,9 @@
+{
+	"name": "AcgMsDataFactory97213",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb4bf88b-beca-46b1-b89c-38e83c9b1900",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
